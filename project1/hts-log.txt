@@ -1,0 +1,13 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 30 Dec 2022 15:04:13 at https://preview.themeforest.net/item/metaportal-nft-portfolio-and-landing-page/full_screen_preview/38941507 +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.themeforest.net/item/metaportal-nft-portfolio-and-landing-page/full_screen_preview/38941507 -O1 "C:\Users\amald\OneDrive\Desktop\luminar\bootstrap_works\project1" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+15:04:16	Warning: 	Link https://preview.themeforest.net/item/metaportal-nft-portfolio-and-landing-page/full_screen_preview/38941507 not scanned (follow robots meta tag)
+15:04:16	Error: 	"Gone" (410) at link https://preview.themeforest.net/item/metaportal-nft-portfolio-and-landing-page/full_screen_preview/&quot;https://themeforest.net/it..." (from https://preview.themeforest.net/item/metaportal-nft-portfolio-and-landing-page/full_screen_preview/38941507)
+
+HTTrack Website Copier/3.49-2 mirror complete in 3 seconds : 5 links scanned, 3 files written (91110 bytes overall) [77583 bytes received at 25861 bytes/sec], 25023 bytes transferred using HTTP compression in 2 files, ratio 30%, 1.2 requests per connection
+(1 errors, 1 warnings, 0 messages)
